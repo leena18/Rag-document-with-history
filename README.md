@@ -1,2 +1,2 @@
-# rag-w-o-history
+# RAG-DOCUMENT
 upload files and ask ai any questions related to pdf
